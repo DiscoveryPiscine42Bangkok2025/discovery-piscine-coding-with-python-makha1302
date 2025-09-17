@@ -3,4 +3,4 @@ NewMessage = Message.split(" ")
 if(NewMessage == ['']):
     print("none")
 else:
-    print(NewMessage)
+    print(Message.upper())
