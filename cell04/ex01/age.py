@@ -1,0 +1,5 @@
+My_age = int(input("Enter Your Age : "))
+print(f"You are currently {My_age} years old.")
+print(f"In 10 years, you'll be {My_age + 10} years old.")
+print(f"In 20 years, you'll be {My_age + 20} years old.")
+print(f"In 30 years, you'll be {My_age + 30} years old.")
